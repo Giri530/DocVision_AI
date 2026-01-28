@@ -47,7 +47,7 @@
 
 ---
 
-> **🌐 Try it live:** [DocVision AI on Hugging Face Spaces](https://huggingface.co/spaces/Girinath11/DocVision-AI)
+> **🌐 Try it live:** [DocVision AI on Hugging Face Spaces](https://huggingface.co/spaces/Girinath11/DocVision_AI)
 
 ---
 
